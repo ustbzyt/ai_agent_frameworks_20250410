@@ -85,6 +85,3 @@ In 2025, the major AI agent frameworks—LangChain, LangGraph, CrewAI, Microsoft
 - [AutoGen GitHub](https://github.com/microsoft/autogen)
 - [Semantic Kernel Overview](https://learn.microsoft.com/en-us/semantic-kernel/overview/)
 
-
-
-
